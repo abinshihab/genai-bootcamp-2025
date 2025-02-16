@@ -69,6 +69,7 @@ GOOD: Clues don't give away any of the tense of conjugations
  | garbage| ゴミ    | Noun| 
  | to be (location)| ある| Intransitive Ichidan Verb |
  | to leave | 置く  | Transitive Godan Verb |
+ 
  Sentence Structure:
   [Location] [Subject] [Verb], [Object] [Verb-past]?
   Considerations:
