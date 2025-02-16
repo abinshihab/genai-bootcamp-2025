@@ -83,4 +83,5 @@ GOOD: Clues don't give away any of the tense of conjugations
   - ask clues about how to connect two sentences 
   - ask clues about question formation
   - ask clues about verb conjugation
+</example>
  Student Input: Bears are at the door, did you leave the garbage out?
