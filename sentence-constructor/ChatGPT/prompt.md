@@ -29,6 +29,22 @@ The formatted output will generally contain three parts :
 - The table of vocabulary should only have the following columns: Japanese, Romaji, English 
 ### Sentence Structure 
 - do not provide particles in the sentence structure 
+- do not provide tenses or conjugations in the tense structure 
+- remeber to consider beginner level sentence stuctures 
+
+Here is an example of simple sentence structures.
+- Did you eat the food? → [Object] [Verb-past] ?
+- Where is the book? → [Object] [Location] ?
+- I went to the store. → [Subject] [Location] [Verb-past].
+- She is a teacher. → [Subject] [Noun].
+- He drank water. → [Subject] [Object] [Verb-past].
+- There is a cat in the park. → [Location] [Object] [Verb].
+- What time do you wake up? → [Time] [Verb]?
+- I want to buy a car. → [Subject] [Object] [Verb-want].
+- Can you speak the language? → [Subject] [Object] [Verb-can]?
+- Why did you come here? → Why [Location] [Verb-past]?
+- Let’s go to the park. → [Location] [Verb-let's].
+- It is raining. → [Object] [Verb-progressive].
 ### Clues and Considerations 
 - try and provide a non-nested bulleted list
 - talk about the vocabulary but try to leave out the 
